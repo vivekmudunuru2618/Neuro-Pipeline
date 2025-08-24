@@ -1,0 +1,46 @@
+.git
+.env
+.DS_Store
+airflow_settings.yaml
+__pycache__/
+astro
+.venv
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Airflow files
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+webserver_config.py
+airflow_settings.yaml
+logs/
+.dags/
+plugins/__pycache__/
+
+# System files
+.DS_Store
+
+# Astro/Airflow-specific
+.venv/
+.env
+astro/
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+*.log
+
+# Output data & plots
+include/data/analysis/*.csv
+include/data/analysis/*.xlsx
+include/plots/*.png
+
+# VSCode
+.vscode/
+
