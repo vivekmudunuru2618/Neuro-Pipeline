@@ -119,9 +119,9 @@ This project was created as a self-driven follow-up to a real hiring challenge I
 
 🤝 Contact
 Venkata Vivek Kumar Mudunuru
-Data Engineer | Python Developer | EEG x Marketing Analyst
+Data Engineer | Python Developer | Application Development Analyst
 📍 Dublin, Ireland
-📫 LinkedIn | ✉️ vivekmudunuru2618@gmail.com
+📫 LinkedIn - https://www.linkedin.com/in/vivek-mudunuru-95105415a/ | ✉️ vivekmudunuru@gmail.com
 
 🌟 Future Plans
 Integrate with cloud-based EEG datasets
